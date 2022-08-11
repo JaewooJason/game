@@ -1,5 +1,4 @@
 # Python game
-파이썬을 이용한 게임입니다.
 
-즐거운 시간 보내세요^^
+This is my first repository
 
